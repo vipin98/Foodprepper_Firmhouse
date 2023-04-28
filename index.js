@@ -6,8 +6,7 @@ import  { request, gql } from 'graphql-request';
 // import crypto from "crypto";
 // import { orderStandardFoodbox } from './cron.js';
 import { Shopify } from "@shopify/shopify-api";
-// import cron from "node-cron";
-// import nodemailer from "nodemailer";
+
 
 
 const port = process.env.PORT || 3000;
